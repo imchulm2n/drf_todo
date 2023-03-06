@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/110436172/223025942-750e2f8f-4c79-42fc-aacb-c258e23d5ecf.png)
 (127.0.0.1:8000/todo/5/에 put 요청)
 ![image](https://user-images.githubusercontent.com/110436172/223025996-54b0aea6-32b7-4b09-ab71-720ceebc23e6.png)
-(다섯번째 목록이 변경되었음을 확)
+(다섯번째 목록이 변경되었음을 확인)
 
 ### Todo 완료 API
 ![image](https://user-images.githubusercontent.com/110436172/223026196-f02965e3-6a14-4b10-af68-c768085eb8dc.png)
